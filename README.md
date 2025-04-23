@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Understanding Data and its verse**
 
-- 🌱 I’m currently learning **Microsoft Fabric**
+- 🌱 I’m currently learning **Building production level Agents**
 
-- 💬 Ask me about **python and java**
+- 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **prathvianchan10@gmail.com**
 
